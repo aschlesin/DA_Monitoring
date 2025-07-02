@@ -20,7 +20,6 @@ dev = [
     "black",
     "isort",
     "ruff",
-    "lxml",
 ]
 
 [tool.ruff.lint]
