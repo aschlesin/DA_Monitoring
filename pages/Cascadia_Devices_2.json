@@ -43,5 +43,14 @@
         "deviceName": "Sea-Bird SBE 63 Dissolved Oxygen Sensor 632576",
         "deviceCategoryID": 25,
         "searchTreeNodeID": 37
+    },
+    {
+        "locationCode": "NC27",
+        "locationName": "ODP 1026",
+        "deviceCode": "CORK-1026",
+        "deviceId": "21301",
+        "deviceName": "CORK P (1026B)",
+        "deviceCategoryID": 76,
+        "searchTreeNodeID": 37
     }
 ]

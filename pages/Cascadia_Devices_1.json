@@ -302,5 +302,94 @@
                 "Temperature"
             ]
         ]
+    },
+    {
+        "locationCode": "NC27",
+        "locationName": "ODP 1026",
+        "deviceCode": "CORK-1026",
+        "deviceId": "21301",
+        "deviceName": "CORK P (1026B)",
+        "sensors": [
+            [
+                "4153",
+                "Instrument Clock"
+            ],
+            [
+                "7574",
+                "Corrected Instrument Clock"
+            ],
+            [
+                "917",
+                "DART Pressure Residual"
+            ],
+            [
+                "997",
+                "Detider Peak Value"
+            ],
+            [
+                "957",
+                "Direct Detider Weighted Threshold"
+            ],
+            [
+                "977",
+                "Kurtosis Weighted Threshold"
+            ],
+            [
+                "4156",
+                "Uncompensated Seafloor Pressure"
+            ],
+            [
+                "1417",
+                "Seismic Detector"
+            ],
+            [
+                "1427",
+                "Seismic Signal to Noise Ratio"
+            ],
+            [
+                "1437",
+                "Seismic Threshold"
+            ],
+            [
+                "927",
+                "Signal to Noise Ratio"
+            ],
+            [
+                "937",
+                "Signal to Noise Ratio Weighted Threshold"
+            ],
+            [
+                "4154",
+                "Housing Temperature"
+            ],
+            [
+                "967",
+                "WARN Kurtosis"
+            ],
+            [
+                "947",
+                "WARN Watcher"
+            ],
+            [
+                "987",
+                "WARN Watcher Weighted Threshold"
+            ],
+            [
+                "4155",
+                "Uncompensated Borehole Pressure"
+            ],
+            [
+                "21512",
+                "Memory Usage Bytes"
+            ],
+            [
+                "21514",
+                "Memory Size"
+            ],
+            [
+                "21513",
+                "Memory Usage Percent"
+            ]
+        ]
     }
 ]
