@@ -1,0 +1,47 @@
+[
+    {
+        "locationCode": "NC27",
+        "locationName": "ODP 1026",
+        "deviceCode": "NORTEKAQDCM2886",
+        "deviceId": "21012",
+        "deviceName": "Nortek Aquadopp Current Meter 2886",
+        "deviceCategoryID": 1,
+        "searchTreeNodeID": 37
+    },
+    {
+        "locationCode": "NC27",
+        "locationName": "ODP 1026",
+        "deviceCode": "GURALPORCUSBBST311164",
+        "deviceId": "80732",
+        "deviceName": "Guralp Orcus Broadband Seismometer SN T311164",
+        "deviceCategoryID": 66,
+        "searchTreeNodeID": 37
+    },
+    {
+        "locationCode": "NC27",
+        "locationName": "ODP 1026",
+        "deviceCode": "NORTEKAQDCM2886",
+        "deviceId": "21012",
+        "deviceName": "Nortek Aquadopp Current Meter 2886",
+        "deviceCategoryID": 1,
+        "searchTreeNodeID": 37
+    },
+    {
+        "locationCode": "NC27",
+        "locationName": "ODP 1026",
+        "deviceCode": "SBECTD19p8062",
+        "deviceId": "51780",
+        "deviceName": "Sea-Bird SeaCAT SBE19plus V2 8062",
+        "deviceCategoryID": 5,
+        "searchTreeNodeID": 37
+    },
+    {
+        "locationCode": "NC27",
+        "locationName": "ODP 1026",
+        "deviceCode": "SBE63632576",
+        "deviceId": "51820",
+        "deviceName": "Sea-Bird SBE 63 Dissolved Oxygen Sensor 632576",
+        "deviceCategoryID": 25,
+        "searchTreeNodeID": 37
+    }
+]

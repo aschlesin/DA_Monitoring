@@ -1,0 +1,306 @@
+[
+    {
+        "locationCode": "NC27",
+        "locationName": "ODP 1026",
+        "deviceCode": "NORTEKAQDCM2886",
+        "deviceId": "21012",
+        "deviceName": "Nortek Aquadopp Current Meter 2886",
+        "sensors": [
+            [
+                "7790",
+                "Amplitude (Beam 1)"
+            ],
+            [
+                "7791",
+                "Amplitude (Beam 2)"
+            ],
+            [
+                "7792",
+                "Amplitude (Beam 3)"
+            ],
+            [
+                "7800",
+                "Battery voltage"
+            ],
+            [
+                "7780",
+                "Clock"
+            ],
+            [
+                "7797",
+                "Current Direction"
+            ],
+            [
+                "7796",
+                "Current Speed"
+            ],
+            [
+                "7787",
+                "Current Velocity X"
+            ],
+            [
+                "7789",
+                "Current Velocity Z"
+            ],
+            [
+                "7788",
+                "Current Velocity Y"
+            ],
+            [
+                "7793",
+                "Current Velocity East"
+            ],
+            [
+                "7794",
+                "Current Velocity North"
+            ],
+            [
+                "7795",
+                "Current Velocity Up"
+            ],
+            [
+                "8070",
+                "Diagnostics Amplitude (Beam 1)"
+            ],
+            [
+                "8071",
+                "Diagnostics Amplitude (Beam 2)"
+            ],
+            [
+                "8072",
+                "Diagnostics Amplitude (Beam 3)"
+            ],
+            [
+                "7798",
+                "Error Code"
+            ],
+            [
+                "7785",
+                "Pressure"
+            ],
+            [
+                "7781",
+                "Sound Speed"
+            ],
+            [
+                "7786",
+                "Temperature"
+            ],
+            [
+                "7782",
+                "Magnetic Compass Heading"
+            ],
+            [
+                "7783",
+                "Pitch"
+            ],
+            [
+                "7784",
+                "Roll"
+            ],
+            [
+                "7799",
+                "Status Code"
+            ]
+        ]
+    },
+    {
+        "locationCode": "NC27",
+        "locationName": "ODP 1026",
+        "deviceCode": "GURALPORCUSBBST311164",
+        "deviceId": "80732",
+        "deviceName": "Guralp Orcus Broadband Seismometer SN T311164",
+        "sensors": []
+    },
+    {
+        "locationCode": "NC27",
+        "locationName": "ODP 1026",
+        "deviceCode": "NORTEKAQDCM2886",
+        "deviceId": "21012",
+        "deviceName": "Nortek Aquadopp Current Meter 2886",
+        "sensors": [
+            [
+                "7790",
+                "Amplitude (Beam 1)"
+            ],
+            [
+                "7791",
+                "Amplitude (Beam 2)"
+            ],
+            [
+                "7792",
+                "Amplitude (Beam 3)"
+            ],
+            [
+                "7800",
+                "Battery voltage"
+            ],
+            [
+                "7780",
+                "Clock"
+            ],
+            [
+                "7797",
+                "Current Direction"
+            ],
+            [
+                "7796",
+                "Current Speed"
+            ],
+            [
+                "7787",
+                "Current Velocity X"
+            ],
+            [
+                "7789",
+                "Current Velocity Z"
+            ],
+            [
+                "7788",
+                "Current Velocity Y"
+            ],
+            [
+                "7793",
+                "Current Velocity East"
+            ],
+            [
+                "7794",
+                "Current Velocity North"
+            ],
+            [
+                "7795",
+                "Current Velocity Up"
+            ],
+            [
+                "8070",
+                "Diagnostics Amplitude (Beam 1)"
+            ],
+            [
+                "8071",
+                "Diagnostics Amplitude (Beam 2)"
+            ],
+            [
+                "8072",
+                "Diagnostics Amplitude (Beam 3)"
+            ],
+            [
+                "7798",
+                "Error Code"
+            ],
+            [
+                "7785",
+                "Pressure"
+            ],
+            [
+                "7781",
+                "Sound Speed"
+            ],
+            [
+                "7786",
+                "Temperature"
+            ],
+            [
+                "7782",
+                "Magnetic Compass Heading"
+            ],
+            [
+                "7783",
+                "Pitch"
+            ],
+            [
+                "7784",
+                "Roll"
+            ],
+            [
+                "7799",
+                "Status Code"
+            ]
+        ]
+    },
+    {
+        "locationCode": "NC27",
+        "locationName": "ODP 1026",
+        "deviceCode": "SBECTD19p8062",
+        "deviceId": "51780",
+        "deviceName": "Sea-Bird SeaCAT SBE19plus V2 8062",
+        "sensors": [
+            [
+                "66382",
+                "Pressure"
+            ],
+            [
+                "66423",
+                "Sound Speed"
+            ],
+            [
+                "66425",
+                "Temperature"
+            ],
+            [
+                "66400",
+                "V0"
+            ],
+            [
+                "66402",
+                "V1"
+            ],
+            [
+                "66422",
+                "V2"
+            ],
+            [
+                "66404",
+                "V3"
+            ],
+            [
+                "66381",
+                "V4"
+            ],
+            [
+                "66401",
+                "V5"
+            ],
+            [
+                "66420",
+                "Conductivity"
+            ],
+            [
+                "66403",
+                "Density"
+            ],
+            [
+                "66380",
+                "Practical Salinity"
+            ],
+            [
+                "66421",
+                "Sigma-t"
+            ],
+            [
+                "66424",
+                "Sigma-theta (0 dbar)"
+            ]
+        ]
+    },
+    {
+        "locationCode": "NC27",
+        "locationName": "ODP 1026",
+        "deviceCode": "SBE63632576",
+        "deviceId": "51820",
+        "deviceName": "Sea-Bird SBE 63 Dissolved Oxygen Sensor 632576",
+        "sensors": [
+            [
+                "66405",
+                "Oxygen Concentration Corrected"
+            ],
+            [
+                "66481",
+                "Oxygen Concentration Uncorrected"
+            ],
+            [
+                "66480",
+                "Temperature"
+            ]
+        ]
+    }
+]
