@@ -189,7 +189,7 @@ def Barkley(
     client.ui.location(devices1[0])
 
     onc = ONC(os.environ.get("ONC_TOKEN"))
-    location_info = onc.getLocations({"locationCode": location_code})
+    location_info = onc.getLocations({"locationCode": location_code,'includeChildren':'True'})
     with st.expander("Location Info", expanded=False):
         st.json(location_info)
 
