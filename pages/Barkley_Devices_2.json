@@ -3,7 +3,7 @@
         "locationCode": "BACAX",
         "locationName": "Barkley Canyon Axis",
         "deviceCode": "SBE63630637",
-        "deviceId": 23283,
+        "deviceId": "23283",
         "deviceName": "Sea-Bird SBE 63 Dissolved Oxygen Sensor 630637",
         "deviceCategoryID": 25,
         "searchTreeNodeID": 15
@@ -12,7 +12,7 @@
         "locationCode": "BACAX",
         "locationName": "Barkley Canyon Axis",
         "deviceCode": "WETLABSECOFLNTURD2973",
-        "deviceId": 23133,
+        "deviceId": "23133",
         "deviceName": "WET Labs ECO FLNTURTD 2973",
         "deviceCategoryID": 85,
         "searchTreeNodeID": 15
@@ -21,7 +21,7 @@
         "locationCode": "BACAX",
         "locationName": "Barkley Canyon Axis",
         "deviceCode": "BH_POD2_ROTSONAR",
-        "deviceId": 12007,
+        "deviceId": "12007",
         "deviceName": "Kongsberg Mesotech Rotary Sonar 1071 (0711216)",
         "deviceCategoryID": 34,
         "searchTreeNodeID": 15
@@ -30,7 +30,7 @@
         "locationCode": "BACAX",
         "locationName": "Barkley Canyon Axis",
         "deviceCode": "SBECTD19p6002",
-        "deviceId": 23840,
+        "deviceId": "23840",
         "deviceName": "Sea-Bird SeaCAT SBE19plus V2 6002",
         "deviceCategoryID": 5,
         "searchTreeNodeID": 15
@@ -39,7 +39,7 @@
         "locationCode": "BACHY",
         "locationName": "Barkley Canyon Hydrates",
         "deviceCode": "SBECTD19p7029",
-        "deviceId": 23582,
+        "deviceId": "23582",
         "deviceName": "Sea-Bird SeaCAT SBE19plus V2 7029",
         "deviceCategoryID": 5,
         "searchTreeNodeID": 16
@@ -48,7 +48,7 @@
         "locationCode": "BACHY",
         "locationName": "Barkley Canyon Hydrates",
         "deviceCode": "SBE63633706",
-        "deviceId": 85432,
+        "deviceId": "85432",
         "deviceName": "Sea-Bird SBE 63 Dissolved Oxygen Sensor (S/N 3706)",
         "deviceCategoryID": 25,
         "searchTreeNodeID": 16
@@ -57,7 +57,7 @@
         "locationCode": "BACHY.S1",
         "locationName": "Imaging Rotary Sonar West",
         "deviceCode": "KONGSBERGSONAR1171SN1206085",
-        "deviceId": 23107,
+        "deviceId": "23107",
         "deviceName": "Kongsberg Mesotech Rotary Sonar 1171 (1206085)",
         "deviceCategoryID": 34,
         "searchTreeNodeID": 122
@@ -66,7 +66,7 @@
         "locationCode": "BACHY.S2",
         "locationName": "Imaging Rotary Sonar East",
         "deviceCode": "KONGSBERGSONAR1171SN1206086",
-        "deviceId": 23108,
+        "deviceId": "23108",
         "deviceName": "Kongsberg Mesotech Rotary Sonar 1171 (1206086)",
         "deviceCategoryID": 34,
         "searchTreeNodeID": 123
@@ -75,7 +75,7 @@
         "locationCode": "BACME",
         "locationName": "Barkley Canyon Mid-East",
         "deviceCode": "SBE63630109",
-        "deviceId": 23048,
+        "deviceId": "23048",
         "deviceName": "Sea-Bird SBE 63 Dissolved Oxygen Sensor 630109",
         "deviceCategoryID": 25,
         "searchTreeNodeID": 18
@@ -84,7 +84,7 @@
         "locationCode": "BACME",
         "locationName": "Barkley Canyon Mid-East",
         "deviceCode": "SBECTD19p7028",
-        "deviceId": 23843,
+        "deviceId": "23843",
         "deviceName": "Sea-Bird SeaCAT SBE19plus V2 7028",
         "deviceCategoryID": 5,
         "searchTreeNodeID": 18
@@ -93,7 +93,7 @@
         "locationCode": "BACME",
         "locationName": "Barkley Canyon Mid-East",
         "deviceCode": "BC_POD3_ROTSONAR",
-        "deviceId": 11401,
+        "deviceId": "11401",
         "deviceName": "Kongsberg Mesotech Rotary Sonar 1071 (0711215)",
         "deviceCategoryID": 34,
         "searchTreeNodeID": 18
@@ -102,7 +102,7 @@
         "locationCode": "BACME.W1",
         "locationName": "Accelerometer ",
         "deviceCode": "NANOMETRICSTITANEA000646",
-        "deviceId": 24074,
+        "deviceId": "24074",
         "deviceName": "Nanometrics TitanEA (S/N 000646)",
         "deviceCategoryID": 43,
         "searchTreeNodeID": 494
@@ -111,7 +111,7 @@
         "locationCode": "BACND",
         "locationName": "Barkley Node",
         "deviceCode": "SBECTD19p6813",
-        "deviceId": 23842,
+        "deviceId": "23842",
         "deviceName": "Sea-Bird SeaCAT SBE19plus V2 6813",
         "deviceCategoryID": 5,
         "searchTreeNodeID": 1410
@@ -120,7 +120,7 @@
         "locationCode": "BACND",
         "locationName": "Barkley Node",
         "deviceCode": "SBE63630639",
-        "deviceId": 23285,
+        "deviceId": "23285",
         "deviceName": "Sea-Bird SBE 63 Dissolved Oxygen Sensor 630639",
         "deviceCategoryID": 25,
         "searchTreeNodeID": 1410
@@ -129,7 +129,7 @@
         "locationCode": "BACND.Z1",
         "locationName": "Tilt Meter",
         "deviceCode": "RBRTILTMETERACCBPR63056",
-        "deviceId": 24154,
+        "deviceId": "24154",
         "deviceName": "RBRconcerto Tilt Meter ACC.BPR 63056",
         "deviceCategoryID": 46,
         "searchTreeNodeID": 1785
@@ -138,7 +138,7 @@
         "locationCode": "BACSG.AT1",
         "locationName": "AZA Fetch",
         "deviceCode": "SONARDYNEFETCH8306SN329744001",
-        "deviceId": 64120,
+        "deviceId": "64120",
         "deviceName": "Sonardyne Fetch 8306-9925 SN 329744-001",
         "deviceCategoryID": 140,
         "searchTreeNodeID": 2523
@@ -147,7 +147,7 @@
         "locationCode": "BACSG.AT2",
         "locationName": "DQZ Fetch 1",
         "deviceCode": "SONARDYNEFETCH8306SN329742001",
-        "deviceId": 64140,
+        "deviceId": "64140",
         "deviceName": "Sonardyne Fetch 8306-9926 SN 329742-001",
         "deviceCategoryID": 140,
         "searchTreeNodeID": 2524
@@ -156,7 +156,7 @@
         "locationCode": "BACSG.AT3",
         "locationName": "DQZ Fetch 2",
         "deviceCode": "SONARDYNEFETCH8306SN329742002",
-        "deviceId": 64160,
+        "deviceId": "64160",
         "deviceName": "Sonardyne Fetch 8306-9926 SN 329742-002",
         "deviceCategoryID": 140,
         "searchTreeNodeID": 2525
@@ -165,7 +165,7 @@
         "locationCode": "BACUS",
         "locationName": "Upper Slope South",
         "deviceCode": "KONGSBERGSONAR1071",
-        "deviceId": 22789,
+        "deviceId": "22789",
         "deviceName": "Kongsberg Mesotech Rotary Sonar 1171 (1108032)",
         "deviceCategoryID": 34,
         "searchTreeNodeID": 21
@@ -174,7 +174,7 @@
         "locationCode": "BACVP",
         "locationName": "Upper Slope Vertical Profiler",
         "deviceCode": "WETLABSFLNTU2585",
-        "deviceId": 23061,
+        "deviceId": "23061",
         "deviceName": "WET Labs ECO FLNTUS 2585",
         "deviceCategoryID": 85,
         "searchTreeNodeID": 49
@@ -183,7 +183,7 @@
         "locationCode": "BACVP",
         "locationName": "Upper Slope Vertical Profiler",
         "deviceCode": "SBECTD19p7877",
-        "deviceId": 26799,
+        "deviceId": "26799",
         "deviceName": "Sea-Bird SeaCAT SBE19plus V2 7877",
         "deviceCategoryID": 5,
         "searchTreeNodeID": 49
@@ -192,7 +192,7 @@
         "locationCode": "BACVP.O1",
         "locationName": "Oxygen - Aanderaa",
         "deviceCode": "AA02_3830_910",
-        "deviceId": 12110,
+        "deviceId": "12110",
         "deviceName": "Aanderaa Optode 3830 (S/N 910)",
         "deviceCategoryID": 25,
         "searchTreeNodeID": 143
@@ -201,7 +201,7 @@
         "locationCode": "BACVP.O3",
         "locationName": "Oxygen - SBE 43",
         "deviceCode": "SBE43-4486",
-        "deviceId": 85352,
+        "deviceId": "85352",
         "deviceName": "Sea-Bird SBE 43 Oxygen (S/N 4486)",
         "deviceCategoryID": 25,
         "searchTreeNodeID": 3296
@@ -210,7 +210,7 @@
         "locationCode": "NCBC",
         "locationName": "Barkley Upper Slope",
         "deviceCode": "GURALPBBSEISMO2218",
-        "deviceId": 13117,
+        "deviceId": "13117",
         "deviceName": "Guralp CMG-IT Broadband Seismometer 2218",
         "deviceCategoryID": 66,
         "searchTreeNodeID": 20
@@ -219,7 +219,7 @@
         "locationCode": "NCBC",
         "locationName": "Barkley Upper Slope",
         "deviceCode": "SBECTD19p7035",
-        "deviceId": 23029,
+        "deviceId": "23029",
         "deviceName": "Sea-Bird SeaCAT SBE19plus V2 7035",
         "deviceCategoryID": 5,
         "searchTreeNodeID": 20
@@ -228,7 +228,7 @@
         "locationCode": "NCBC",
         "locationName": "Barkley Upper Slope",
         "deviceCode": "SBE63632210",
-        "deviceId": 31959,
+        "deviceId": "31959",
         "deviceName": "Sea-Bird SBE 63 Dissolved Oxygen Sensor 632210",
         "deviceCategoryID": 25,
         "searchTreeNodeID": 20
@@ -237,7 +237,7 @@
         "locationCode": "NCBC.W1",
         "locationName": "Accelerometer",
         "deviceCode": "NANOMETRICSTITANEA000145",
-        "deviceId": 23454,
+        "deviceId": "23454",
         "deviceName": "Nanometrics TitanEA (S/N 000145)",
         "deviceCategoryID": 43,
         "searchTreeNodeID": 1763
