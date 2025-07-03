@@ -1,0 +1,137 @@
+[
+    {
+        "locationCode": "BACUS",
+        "locationName": "Upper Slope South",
+        "deviceCode": "KONGSBERGSONAR1071",
+        "deviceId": "22789",
+        "deviceName": "Kongsberg Mesotech Rotary Sonar 1171 (1108032)",
+        "sensors": []
+    },
+    {
+        "locationCode": "BACVP",
+        "locationName": "Upper Slope Vertical Profiler",
+        "deviceCode": "WETLABSFLNTU2585",
+        "deviceId": "23061",
+        "deviceName": "WET Labs ECO FLNTUS 2585",
+        "sensors": [
+            [
+                "9247",
+                "Clock"
+            ],
+            [
+                "9248",
+                "Chlorophyll"
+            ],
+            [
+                "9249",
+                "Turbidity"
+            ]
+        ]
+    },
+    {
+        "locationCode": "BACVP",
+        "locationName": "Upper Slope Vertical Profiler",
+        "deviceCode": "SBECTD19p7877",
+        "deviceId": "26799",
+        "deviceName": "Sea-Bird SeaCAT SBE19plus V2 7877",
+        "sensors": [
+            [
+                "738",
+                "Depth"
+            ],
+            [
+                "29942",
+                "Pressure"
+            ],
+            [
+                "29922",
+                "Sound Speed"
+            ],
+            [
+                "29941",
+                "Temperature"
+            ],
+            [
+                "29920",
+                "V0"
+            ],
+            [
+                "29939",
+                "V1"
+            ],
+            [
+                "29923",
+                "V2"
+            ],
+            [
+                "29943",
+                "V3"
+            ],
+            [
+                "29962",
+                "V4"
+            ],
+            [
+                "29940",
+                "V5"
+            ],
+            [
+                "29960",
+                "Conductivity"
+            ],
+            [
+                "29919",
+                "Density"
+            ],
+            [
+                "29921",
+                "Practical Salinity"
+            ],
+            [
+                "29959",
+                "Sigma-t"
+            ],
+            [
+                "29961",
+                "Sigma-theta (0 dbar)"
+            ]
+        ]
+    },
+    {
+        "locationCode": "NCBC",
+        "locationName": "Barkley Upper Slope",
+        "deviceCode": "GURALPBBSEISMO2218",
+        "deviceId": "13117",
+        "deviceName": "Guralp CMG-IT Broadband Seismometer 2218",
+        "sensors": [
+            [
+                "15006",
+                "Clock Synchronization Failure Status"
+            ],
+            [
+                "15008",
+                "Clock Synchronization Error"
+            ],
+            [
+                "15007",
+                "Internal Temperature"
+            ],
+            [
+                "15009",
+                "Mass Position East"
+            ],
+            [
+                "15010",
+                "Mass Position North"
+            ],
+            [
+                "15011",
+                "Mass Position Up"
+            ],
+            [
+                "15005",
+                "Voltage"
+            ]
+        ]
+    }
+]
