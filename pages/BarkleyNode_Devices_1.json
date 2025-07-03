@@ -1,0 +1,145 @@
+[
+    {
+        "locationCode": "BACND",
+        "locationName": "Barkley Node",
+        "deviceCode": "SBECTD19p6813",
+        "deviceId": "23842",
+        "deviceName": "Sea-Bird SeaCAT SBE19plus V2 6813",
+        "sensors": [
+            [
+                "16695",
+                "Pressure"
+            ],
+            [
+                "16707",
+                "Sound Speed"
+            ],
+            [
+                "16694",
+                "Temperature"
+            ],
+            [
+                "16699",
+                "V0"
+            ],
+            [
+                "16698",
+                "V1"
+            ],
+            [
+                "16697",
+                "V2"
+            ],
+            [
+                "16696",
+                "V3"
+            ],
+            [
+                "16701",
+                "V4"
+            ],
+            [
+                "16700",
+                "V5"
+            ],
+            [
+                "16704",
+                "Conductivity"
+            ],
+            [
+                "16706",
+                "Density"
+            ],
+            [
+                "16702",
+                "Practical Salinity"
+            ],
+            [
+                "16703",
+                "Sigma-t"
+            ],
+            [
+                "16705",
+                "Sigma-theta (0 dbar)"
+            ]
+        ]
+    },
+    {
+        "locationCode": "BACND",
+        "locationName": "Barkley Node",
+        "deviceCode": "SBE63630639",
+        "deviceId": "23285",
+        "deviceName": "Sea-Bird SBE 63 Dissolved Oxygen Sensor 630639",
+        "sensors": [
+            [
+                "13333",
+                "Oxygen Concentration Corrected"
+            ],
+            [
+                "13334",
+                "Oxygen Concentration Uncorrected"
+            ],
+            [
+                "13332",
+                "Temperature"
+            ]
+        ]
+    },
+    {
+        "locationCode": "BACND.Z1",
+        "locationName": "Tilt Meter",
+        "deviceCode": "RBRTILTMETERACCBPR63056",
+        "deviceId": "24154",
+        "deviceName": "RBRconcerto Tilt Meter ACC.BPR 63056",
+        "sensors": [
+            [
+                "31335",
+                "P-Wave Detection Ratio "
+            ],
+            [
+                "31337",
+                "S-Wave Detection Ratio "
+            ],
+            [
+                "31334",
+                "P-wave Arrival Time"
+            ],
+            [
+                "73384",
+                "Displacement N"
+            ],
+            [
+                "73385",
+                "Displacement E"
+            ],
+            [
+                "73386",
+                "Displacement Z"
+            ],
+            [
+                "31329",
+                "JMA Intensity Amplitude"
+            ],
+            [
+                "31330",
+                "Maximum Peak Displacement Amplitude (Pd)"
+            ],
+            [
+                "31336",
+                "S-wave Arrival Time"
+            ],
+            [
+                "31331",
+                "Maximum Predominant Period (tau)"
+            ],
+            [
+                "31333",
+                "Predominant Period (tau)"
+            ],
+            [
+                "31332",
+                "Peak Displacement Amplitude (Pd)"
+            ]
+        ]
+    }
+]

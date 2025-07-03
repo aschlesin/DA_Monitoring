@@ -1,0 +1,29 @@
+[
+    {
+        "locationCode": "BACND",
+        "locationName": "Barkley Node",
+        "deviceCode": "SBECTD19p6813",
+        "deviceId": "23842",
+        "deviceName": "Sea-Bird SeaCAT SBE19plus V2 6813",
+        "deviceCategoryID": 5,
+        "searchTreeNodeID": 1410
+    },
+    {
+        "locationCode": "BACND",
+        "locationName": "Barkley Node",
+        "deviceCode": "SBE63630639",
+        "deviceId": "23285",
+        "deviceName": "Sea-Bird SBE 63 Dissolved Oxygen Sensor 630639",
+        "deviceCategoryID": 25,
+        "searchTreeNodeID": 1410
+    },
+    {
+        "locationCode": "BACND.Z1",
+        "locationName": "Tilt Meter",
+        "deviceCode": "RBRTILTMETERACCBPR63056",
+        "deviceId": "24154",
+        "deviceName": "RBRconcerto Tilt Meter ACC.BPR 63056",
+        "deviceCategoryID": 46,
+        "searchTreeNodeID": 1785
+    }
+]
